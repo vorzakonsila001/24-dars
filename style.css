@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.main {
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/river-flowing-through-forest-generative-al2-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.main h1{
+    padding-left: 2090px;
+    font-size: 200px;
+    padding-top: 700px;
+    color: #fff;
+}
+
+
+.main p{
+    padding-left: 1200px;
+    font-size: 100px;
+    color: #fff;
+    margin-top: 40px;
+}
+
+
+.main button{
+    border-radius: 60px;
+    font-size: 130px;
+    margin-left: 1900px;
+    padding: 10px;
+    margin-top: 200px;
+    background-color:peru;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: #fff;
+}
+
+
+
+
+.main h5{
+    font-size: 150px;
+    color: #fff;
+    padding-left:2800px;
+    margin-top: 200px;
+}
+
+
+
+.box{
+    width: 100%;
+    height: 90vh;
+    background-image: url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+.home{
+    width: 100%;
+    height: 90vh;
+    background-image: url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.home h1{
+    font-size: 200px;
+    padding-left: 2000px;
+    color: #fff;
+}
+
+
+.home p{
+    display: flex;
+    font-size: 100px;
+    padding-left: 400px;
+    margin-top: 100px;
+    color: #fff;
+}
+
+
+.box {
+    width: 100%;
+    height: 90vh;
+    background-image: url(https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/37.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
